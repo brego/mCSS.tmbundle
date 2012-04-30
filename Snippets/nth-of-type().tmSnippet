@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:nth-of-type(${1:2n+1})$0</string>
 	<key>name</key>
-	<string>nth-of-type()</string>
+	<string>Pseudo-class: nth-of-type()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

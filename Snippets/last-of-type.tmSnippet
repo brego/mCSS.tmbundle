@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:last-of-type</string>
 	<key>name</key>
-	<string>last-of-type</string>
+	<string>Pseudo-class: last-of-type</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

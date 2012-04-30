@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:first-letter</string>
 	<key>name</key>
-	<string>first-letter</string>
+	<string>Pseudo-class: first-letter</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

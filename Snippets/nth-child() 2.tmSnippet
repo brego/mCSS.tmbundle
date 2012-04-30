@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:nth-child(${1:2n+1})$0</string>
 	<key>name</key>
-	<string>nth-child()</string>
+	<string>Pseudo-class: nth-child()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

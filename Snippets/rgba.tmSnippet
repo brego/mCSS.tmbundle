@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-color: rgb(${1:255},${2:255},${3:255});$0</string>
+	<string>rgba(${1:0}, ${2:0}, ${3:0}, .${4:50})$0</string>
 	<key>name</key>
-	<string>background-color: RGB</string>
+	<string>rgba</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>bgcrgb</string>
+	<string>rgba</string>
 	<key>uuid</key>
-	<string>5A3E1F5B-A3AE-40A4-934A-F994E9077F6F</string>
+	<string>5D083EAB-DAAE-4E29-BB0A-C2476E5954B3</string>
 </dict>
 </plist>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:lang(${1:en})$0</string>
 	<key>name</key>
-	<string>lang()</string>
+	<string>Pseudo-class: lang()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

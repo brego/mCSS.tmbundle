@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:before</string>
 	<key>name</key>
-	<string>before</string>
+	<string>Pseudo-class: before</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

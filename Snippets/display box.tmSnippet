@@ -7,7 +7,7 @@
 display: -moz-box;
 display: box;$0</string>
 	<key>name</key>
-	<string>display box</string>
+	<string>display: box</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

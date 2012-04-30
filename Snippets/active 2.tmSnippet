@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:active</string>
 	<key>name</key>
-	<string>active</string>
+	<string>Pseudo-class: active</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

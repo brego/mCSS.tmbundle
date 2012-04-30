@@ -3,16 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background: -webkit-linear-gradient(#${1:666}, #${2:ccc}); 
-background: -moz-linear-gradient(#${1:666}, #${2:ccc}); 
-background: linear-gradient(#${1:666}, #${2:ccc});$0</string>
+	<string>opacity:            0.${1:50};
+filter: alpha(opacity=$1);$0</string>
 	<key>name</key>
-	<string>background linear-gradient</string>
+	<string>opacity</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>bglg</string>
+	<string>op</string>
 	<key>uuid</key>
-	<string>6E4BFF39-EED8-43FA-9AF6-FCC4040395FE</string>
+	<string>B1044663-F56F-449A-893C-E1164B3EDE15</string>
 </dict>
 </plist>

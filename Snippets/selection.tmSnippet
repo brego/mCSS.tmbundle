@@ -4,9 +4,9 @@
 <dict>
 	<key>content</key>
 	<string>::-moz-selection { background: #${1:ff0}; color: #${2:000}; text-shadow: none; }
-::selection { background: #${1:ff0}; color: #${2:000}; text-shadow: none; }$0</string>
+::selection      { background: #${1:ff0}; color: #${2:000}; text-shadow: none; }$0</string>
 	<key>name</key>
-	<string>selection</string>
+	<string>Pseudo-class: selection</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

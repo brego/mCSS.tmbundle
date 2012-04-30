@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>outline-style: #${1:fff};$0</string>
+	<string>outline-style: ${1:rgba(${2:0}, ${3:0}, ${4:0}, .${5:50})};$0</string>
 	<key>name</key>
 	<string>outline-color: color</string>
 	<key>scope</key>

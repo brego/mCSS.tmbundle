@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:focus</string>
 	<key>name</key>
-	<string>focus</string>
+	<string>Pseudo-class: focus</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

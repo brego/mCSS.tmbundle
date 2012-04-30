@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:after</string>
 	<key>name</key>
-	<string>after</string>
+	<string>Pseudo-class: after</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

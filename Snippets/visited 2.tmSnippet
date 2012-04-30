@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:visited</string>
 	<key>name</key>
-	<string>visited</string>
+	<string>Pseudo-class: visited</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-transition: ${1:color} ${2:.5}s ${3:ease-out};
--moz-transition: ${1:color} ${2:.5}s ${3:ease-out};
-transition: ${1:color} ${2:.5}s ${3:ease-out};$0</string>
+	<string>-webkit-transition: ${1:${2:all} ${3:0.3s} ${4:ease}};
+-moz-transition:    $1;
+-ms-transition:     $1;
+-o-transition:      $1;
+transition:         $1;$0</string>
 	<key>name</key>
 	<string>transition</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>3t</string>
+	<string>tr</string>
 	<key>uuid</key>
 	<string>2EC8DB79-92D5-4271-A123-D76DF31C0D45</string>
 </dict>

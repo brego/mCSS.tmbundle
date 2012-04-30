@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:first-child</string>
 	<key>name</key>
-	<string>first-child</string>
+	<string>Pseudo-class: first-child</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

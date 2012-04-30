@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:hover</string>
 	<key>name</key>
-	<string>hover</string>
+	<string>Pseudo-class: hover</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
