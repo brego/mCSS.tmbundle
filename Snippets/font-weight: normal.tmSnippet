@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font-weight: normal;$0</string>
+	<string>font-weight: ${1:normal};$0</string>
 	<key>name</key>
-	<string>font-weight: normal</string>
+	<string>font-weight</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

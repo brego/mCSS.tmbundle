@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font: ${1:${2:1em}/${2:1}} ${"Helvetica Neue", Helvetica, Arial, sans-serif};$0</string>
+	<string>font: ${1:${2:12px}/${3:$2}} ${4:"Helvetica Neue", Helvetica, Arial, sans-serif};$0</string>
 	<key>name</key>
 	<string>font:</string>
 	<key>scope</key>
