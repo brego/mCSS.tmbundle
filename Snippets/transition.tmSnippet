@@ -4,10 +4,10 @@
 <dict>
 	<key>content</key>
 	<string>-webkit-transition: ${1:${2:all} ${3:0.3s} ${4:ease}};
--moz-transition:    $1;
--ms-transition:     $1;
--o-transition:      $1;
-transition:         $1;$0</string>
+   -moz-transition: $1;
+    -ms-transition: $1;
+     -o-transition: $1;
+        transition: $1;$0</string>
 	<key>name</key>
 	<string>transition</string>
 	<key>scope</key>
