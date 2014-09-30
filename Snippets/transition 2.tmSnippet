@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>transition</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>tra</string>
 	<key>uuid</key>

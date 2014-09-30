@@ -8,7 +8,7 @@ box-shadow:         $1;$0</string>
 	<key>name</key>
 	<string>box-shadow</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>bsha</string>
 	<key>uuid</key>

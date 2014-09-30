@@ -8,7 +8,7 @@ filter: alpha(opacity=$1);$0</string>
 	<key>name</key>
 	<string>opacity</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css,source.scss</string>
 	<key>tabTrigger</key>
 	<string>op</string>
 	<key>uuid</key>
